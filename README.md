@@ -12,13 +12,14 @@
 
 ###
 
+<h6 align="left">🚩 I'm also into cybersecurity CTFs!</h6>
+
+###
 <h6 align="left">📫 How to reach me: mswork216@gmail.com</h6>
 
 ###
 
-<h6 align="left">🚩 I'm also into cybersecurity CTFs!</h6>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
