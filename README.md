@@ -12,8 +12,6 @@
 
 ###
 
-<h6 align="left">📫 How to reach me: mswork216@gmail.com</h6>
-
 ###
 
 <h6 align="left">🚩 I'm also into cybersecurity CTFs!</h6>
